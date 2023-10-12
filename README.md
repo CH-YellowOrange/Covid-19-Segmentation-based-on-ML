@@ -10,8 +10,6 @@
 
 #### COVID-19 CT Ground-Glass Opacity Segmentation Based on Attention Mechanism Threshold
 
-Yunbo Rao , Qingsong Lv , Shaoning Zeng∗ , Yuling Yi , Cheng Huang , Yun Gao , Zhanglin Cheng , Jihong Sun, 2022
-
 ### What we are doing
 
 - [x] GGO Segmentation
